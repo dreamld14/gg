@@ -91,7 +91,7 @@ header .fa-bars {
 
 .home {
     min-height: 50vh;
-    background: linear-gradient(rgba(225,184,0,0.2), rgba(236,134,0,0.8)), url(images/fondo.jpg) no-repeat;
+    background: linear-gradient(rgba(225,184,0,0.2), rgba(236,134,0,0.8)), url(images/descarga.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
